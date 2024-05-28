@@ -6,7 +6,7 @@ var isPalindrome = function(str) {
     .reverse()
     .join('');
 
-    if (reversedString === str) {
+    if (reversedStrig === str) {
         return true;
     } else {
         return false;
